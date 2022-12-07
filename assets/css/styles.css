@@ -1,0 +1,17 @@
+body {
+  background-color:  #000;
+}
+
+.lab1 {
+  background:  url("../image/lab1.gif");
+  background-size: cover;
+}
+
+.lab2 {
+  background:  url("../image/lab2.gif");
+}
+
+.lab3 {
+  background: url("../image/lab3.gif");
+  background-size: cover;
+}
